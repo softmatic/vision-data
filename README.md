@@ -1,5 +1,5 @@
 # vision-data
-Sample images and data for vision projects. Unless otherwise noted, all data is licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Code and code snippets are licensed under MIT (Copyright (c) 2020, Softmatic GmbH, https://choosealicense.com/licenses/mit/)
+Sample images and data for vision projects. Unless otherwise noted, all data is licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). For code and code snippets the MIT license applies (copyright (c) 2020, Softmatic GmbH).
 
 ## 2D
 
