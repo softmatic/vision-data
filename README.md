@@ -12,7 +12,7 @@ For each scan, a JSON file is provided that contains the result of Amazon AWS Te
 Extracting the lines of text from the json in two lines of Python:
 
 ```python
-file = json.load(filename)
+file = json.load("aldi_02032020_19_02423_blocks.json")
 lines = list(filter(lambda x : x['BlockType'] == 'LINE', file))
 ```
 
