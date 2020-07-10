@@ -1,1 +1,1 @@
-
+Cropped sample receipts.
