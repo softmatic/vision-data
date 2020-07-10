@@ -1,0 +1,1 @@
+Uncropped sample receipts.
