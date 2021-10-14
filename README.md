@@ -22,7 +22,7 @@ The *lines* list will then contain the individual line objects with text content
 {"BlockType": "LINE", "Confidence": 98.87596130371094, "Text": "BIO HONIG", "Geometry": {"BoundingBox": {"Width": 0.20352864265441895, "Height": 0.015931174159049988, "Left": 0.01894291304051876, "Top": 0.2164158821105957}} ... }
 ```
 
-Subset from our test cases for the RoboScan receipt scanning app (https://roboscan.app, this [video](https://youtu.be/MspQtJGhvzI) shows realtime receipt detection, text recognition and parsing on an iPhone SE II). On device, the app does not employ Textract for OCR. Instead, it uses OpenCV with Google's *ML Kit* on Android and Apple's *Vision* framework on iOS.  
+Subset from our test cases for a receipt scanning app.
 
 ## 3D
 
